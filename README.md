@@ -1,1 +1,1 @@
-# smart-medicine-reminder-box
+# Smart Medicine Reminder Box
